@@ -6,7 +6,7 @@
 **************************************/
 
 * {
-
+	
 }
 
 body {
@@ -50,8 +50,6 @@ nav.horizontal li a {
 
 }
 
-
-
 section {
 	width: 60%;
 	float: left;
@@ -61,4 +59,9 @@ aside {
 	width: 35%;
 	float: left;
 	background-color: red;
+}
+
+footer {
+	clear: left;
+	text-align: center;
 }
