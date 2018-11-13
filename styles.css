@@ -43,11 +43,11 @@ nav.horizontal li {
 	margin: 0px;
 	width: 20%;
 	list-style-type: none;
+	text-align: center;
 }
 
 nav.horizontal li a {
-	text-align: center;
-
+	text-align: center; // is this working?
 }
 
 section {
