@@ -1,0 +1,64 @@
+/**************************************
+	Name:			Scott Cordle
+	Date:			05/01/17
+	Description:	stylesheet for My Home Page
+	Resources:			
+**************************************/
+
+* {
+
+}
+
+body {
+	background-color: #F3EFE0;
+	margin: auto;
+	width: 80%;
+	font-family: sans-serif;
+}
+
+h1 {
+	color: #217C7E;
+}
+
+h3 {
+	color: #9A3334;
+}
+
+header {
+	text-align: center;
+	background-color: #3399FF;
+}
+
+nav.horizontal {
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+	background-color: green;
+}
+
+nav.horizontal li {
+	background-color: green;
+	float: left;
+	padding: 15px;
+	margin: 0px;
+	width: 20%;
+	list-style-type: none;
+}
+
+nav.horizontal li a {
+	text-align: center;
+
+}
+
+
+
+section {
+	width: 60%;
+	float: left;
+}
+
+aside {
+	width: 35%;
+	float: left;
+	background-color: red;
+}
